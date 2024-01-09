@@ -1,8 +1,11 @@
 # Template: Vite > React > JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Configurações personalizadas a partir de um template do VITE (`pnpm create vite .`), removendo arquivos denecessários e fazendo uma configuração básica.
 
-Currently, two official plugins are available:
+Configruações Efetuadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+  - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+  - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Eslint com Airbnb Styled
+- Prettier
